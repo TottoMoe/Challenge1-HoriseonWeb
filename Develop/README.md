@@ -6,4 +6,4 @@ I add the ALT to all the imgages
 I change the header
 I change the footer
 I section the different sections
-I change the last <h2> to <h4>
+I change the last heading from h2 to h4
